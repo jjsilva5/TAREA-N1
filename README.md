@@ -4,7 +4,15 @@
 
 1.OBJETIVOS
 
+- Utilizar notación cientifica para representar cantidades.
+- Descubrir la estructura de los atomos
+- Descubrir que es la carga eléctrica.
+- Cuantificar y definir los terminos, "voltaje, corriente y resistencia".
+- Descubrir el codigo de colores de resistencias.
+
 2.MARCO TEÓRICO (RESUMEN)
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 CAPITULO 1
