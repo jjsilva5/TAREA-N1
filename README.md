@@ -54,7 +54,7 @@ CAPITULO 2
 
 4. VIDEO
 
-
+https://drive.google.com/file/d/1qS4LDVKCbEezghX3fSbjU6jHP8BpoLGP/view?usp=sharing
 
 5. CONCLUSIONES
 
@@ -65,5 +65,6 @@ CAPITULO 2
 - Las leyes de kirchoff permiten el analisis de una manera mas sencilla circuitos en serie, paralelos y mixtos.
 
 7. BIBLIOGRAFÍA
+
 Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education.
  
