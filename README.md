@@ -50,7 +50,15 @@ CAPITULO 2
 
 4. VIDEO
 
+
+
 5. CONCLUSIONES
 
-6. BIBLIOGRAFÍA
+- Mientras más exacto sea el valor de la resistencia el flujo de electrones será preciso, ypuede mejorar siempre y cuando tenga una conexión a tierra, por que dicha conexiónayuda a que se controle de una mejor manera el flujo de energía
+- La corriente electrica es la velocidad que lleva el flujo de la carga.
+- La resistencia es la oposición a la corriente
+- No todos los tipos de resistores se codifican con bandas de color. Muchos indican su valor de resistencia y tolerancia.
+- Las leyes de kirchoff permiten el analisis de una manera mas sencilla circuitos en serie, paralelos y mixtos.
+
+7. BIBLIOGRAFÍA
 
