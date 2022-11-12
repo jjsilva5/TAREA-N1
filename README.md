@@ -12,7 +12,11 @@
 
 2.MARCO TEÓRICO (RESUMEN)
 
-
+![1](https://user-images.githubusercontent.com/117045943/201497977-656c4189-9b90-4b98-b720-21277d3bc22b.jpg)
+![2](https://user-images.githubusercontent.com/117045943/201497979-7549032c-cfcd-4a00-a8f3-95de5b2ba9f0.jpg)
+![3](https://user-images.githubusercontent.com/117045943/201497982-2d1e5753-f5ca-4241-b159-cfc539b39e15.jpg)
+![4](https://user-images.githubusercontent.com/117045943/201497984-5122edec-d89b-495e-992d-61a52a8b46ce.jpg)
+![5](https://user-images.githubusercontent.com/117045943/201497988-5aa0f2f2-a583-412d-be96-ca4fca830815.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 CAPITULO 1
@@ -61,4 +65,5 @@ CAPITULO 2
 - Las leyes de kirchoff permiten el analisis de una manera mas sencilla circuitos en serie, paralelos y mixtos.
 
 7. BIBLIOGRAFÍA
-
+Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education.
+ 
